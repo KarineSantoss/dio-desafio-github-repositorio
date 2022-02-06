@@ -1,0 +1,10 @@
+- Para acessar uma pasta pelo Git bash só é acessar na pasta com botão direito e iniciar o git bash
+- Para clonar o repositorio do GitHub para maquina copiar o Https ou SSH
+- Para clonar é o seguinte comando: git clone e copiar o link
+- Depois de criar suas anotações salvar o git: 
+- Seguintes comandos: git status vai mostrar uma pasta nova
+- git add .  ou git add -A
+- Depois de adiconar a pasta deve commitar para poder salvar as modificações.
+- Seguinte comando: git commit -m "o texto que você deseja colocar"
+- para mandar pra nuvem para mostar la no github
+- Seguinte comando: git push origin main ( envia todos os commit para nuvem)

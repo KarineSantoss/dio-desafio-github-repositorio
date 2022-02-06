@@ -1,0 +1,15 @@
+Linguagem de Programação: É uma liguagem para gerar programas
+Função: Serve de comunicação entre maquina e humano
+
+- Tipo de linguagem:
+Alto Nivel: São aquela cuja sintaxe se aproxima mais da nossa linguagem e se distancia mais da liguagem da maquina
+Baixo nivel: Linaguegm de computador
+Complicadas: O codigo fonte é executado pelo sistema
+Operacional: É traduzido para o codigo da maquina atraves do processo de complicações.
+Interpretadas: É a linguagem e o codigo fonte é executado por um programa de computador
+Portugol: É um psedoliguagem que permite ao programador pensar no problema em si e não no equipamento que irá executar o algoritmo. 
+
+- Se - Verdadeiro
+-Se-sendo - Falso
+caso - Desvio de condicional
+

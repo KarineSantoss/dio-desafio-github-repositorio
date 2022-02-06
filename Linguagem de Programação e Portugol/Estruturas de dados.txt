@@ -1,0 +1,12 @@
+Estruturas de dados: É uma estrutura organizada de dados na memoria de um computador para ser utilizada de forma correta.
+Principais Estruturas de dados:
+Vetores e Matrizes: São estruturas de dados simples que podem auxilar quando há muitas variaveis do mesmo tipo de um algoritmo.
+Vetor: É uma variavel que armazena varias variaveis.
+Matriz:É um vetor de vetores
+Registro: Estrutura que fornece um formato especial para armazenar informações em memoria.
+Lista: Possui tamanhos ajustaveis: Ligada e duplamnetes ligadas
+Pilhas: É um estrutura de dados que serve como uma coleção de elementos e permite o acesso a somente um item de dados armazenados.
+-LIFO OU UEPS
+-FIPO OU PEPS
+Filas: O elmento removido é o que está na estrutura há muito tempo ou seja o primeiro objeto inserido na fila e tambem o primeiro a ser removido.
+arvore: É uma estrutura de dados que organiza seus elementos de forma hiraquica onde existe um elemento que fixa no topo da arvore chamado raiz e existe os subordinados chamado de nós ou folhas. 

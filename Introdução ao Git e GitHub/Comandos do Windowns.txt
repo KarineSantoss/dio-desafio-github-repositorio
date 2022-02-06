@@ -1,0 +1,9 @@
+-cd: permite navegar pelas pastas
+vai aparecer o diritorio C:
+-dir: lista as pastas
+-dir.. : Volta para o diretorio C:
+- O TAB completa a palavra. EX: WO e digitar TAB vai compeltar automatico a palavra workspace o nome da pasta que existe lá
+- mkdir: criar pasta. EX: C:\workspace>echo hello > hello.txt
+- del/rmdir - excluir.
+EX: del workspace enter ( Arquivo deletado)
+EX: rmdir workspace /s /q enter (Exlcuir a pasta)

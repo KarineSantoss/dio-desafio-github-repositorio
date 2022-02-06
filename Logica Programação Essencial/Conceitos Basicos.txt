@@ -1,0 +1,8 @@
+- Logica: Coerência de Raciocionio de ideais.
+-Logiga de programação: Significa contextualizar a logica na programação e computadores, buscando melhor sequencia de ações para selecionar um problema.
+-Algoritmos: Sequencia de passos pra resolver um problema.
+-Pseudocodigo: é uma forma generica de escrever um algoritmo utilizando uma linguagem simples.
+-Fluxogramas: É uma ferramenta utilizada para representar graficamente o algortimo, isto é, sequencia do fluxo.
+variaves: É um objeto capaz de representar um memoria um valor ou uma expressão.
+Tipo de variaves:Numero,caracteres,alfanumericos ou logicos
+-Constantes: São valores imutaveis e não sao alterados durante a vida util do programa.
